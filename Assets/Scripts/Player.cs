@@ -2,9 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class MapTile : MonoBehaviour {
+public class Player : Unit {
 
-    public Vector2 gridPosition;
 
 
 	// Use this for initialization
